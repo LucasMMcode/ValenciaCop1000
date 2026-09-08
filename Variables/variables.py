@@ -27,4 +27,5 @@ elif(operation == "//"):
         result = number1 // number2
 else: result = "invalid operation"
 print(result)
+print("Lucas Mittmann Magdanz (LucasMM)")
 #'''
